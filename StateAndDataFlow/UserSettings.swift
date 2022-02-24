@@ -7,7 +7,8 @@
 
 import Foundation
 
-final class UserSettings {
+final class UserSettings: ObservableObject {
+    
     
     private enum SettingsKeys: String {
         case userName

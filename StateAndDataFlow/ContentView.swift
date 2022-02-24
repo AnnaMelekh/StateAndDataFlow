@@ -11,6 +11,7 @@ struct ContentView: View {
     @EnvironmentObject var user: UserManager
     @StateObject private var timer = TimeCounter()
     
+    
     var body: some View {
         VStack(spacing: 40) {
             Text("Hi, \(user.name)")
