@@ -15,6 +15,7 @@
 		F399A22A27C69CC7001263A0 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F399A22927C69CC7001263A0 /* RegisterView.swift */; };
 		F399A22C27C69E20001263A0 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F399A22B27C69E20001263A0 /* UserManager.swift */; };
 		F399A22E27C6A0B1001263A0 /* StarterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F399A22D27C6A0B0001263A0 /* StarterView.swift */; };
+		F399A23027C826AD001263A0 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F399A22F27C826AD001263A0 /* UserSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		F399A22927C69CC7001263A0 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
 		F399A22B27C69E20001263A0 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
 		F399A22D27C6A0B0001263A0 /* StarterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterView.swift; sourceTree = "<group>"; };
+		F399A22F27C826AD001263A0 /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				F399A21727C67812001263A0 /* StateAndDataFlowApp.swift */,
 				F399A21927C67812001263A0 /* ContentView.swift */,
+				F399A22F27C826AD001263A0 /* UserSettings.swift */,
 				F399A22927C69CC7001263A0 /* RegisterView.swift */,
 				F399A22D27C6A0B0001263A0 /* StarterView.swift */,
 				F399A22B27C69E20001263A0 /* UserManager.swift */,
@@ -153,6 +156,7 @@
 				F399A22A27C69CC7001263A0 /* RegisterView.swift in Sources */,
 				F399A22E27C6A0B1001263A0 /* StarterView.swift in Sources */,
 				F399A21A27C67812001263A0 /* ContentView.swift in Sources */,
+				F399A23027C826AD001263A0 /* UserSettings.swift in Sources */,
 				F399A22C27C69E20001263A0 /* UserManager.swift in Sources */,
 				F399A21827C67812001263A0 /* StateAndDataFlowApp.swift in Sources */,
 			);

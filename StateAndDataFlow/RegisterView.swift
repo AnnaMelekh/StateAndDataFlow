@@ -31,6 +31,7 @@ extension RegisterView {
         if !name.isEmpty {
             user.name = name
             user.isRegistered.toggle()
+            UserSettings.name = name
         }
     }
 }
